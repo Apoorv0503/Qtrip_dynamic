@@ -3,6 +3,9 @@
 
 Welcome to **QTrip!** QTrip is a travel site built using HTML/CSS/JavaScript. This is a **travel site** that displays differnet cities, adventures and their details, allowing users to make reservations for the adventures.
 
+**Website URL:** https://qtrip-dynamic-frontend-bugapd.netlify.app/
+
+
 ## QTrip website will have these 4 pages
 #### 1. Landing Page - 
 This is the starting page for the website. It lists the various cities for which you can explore adventures
